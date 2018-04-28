@@ -1,0 +1,4 @@
+jupyter>=1.0.0,<2
+matplotlib>=2.2.2,<3
+pandas>=0.22.0,<1
+pydataset>=0.2.0,<1
